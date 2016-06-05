@@ -6,11 +6,13 @@ Corner ribbon CSS (Sass). [Demo](http://corner-ribbon.themekit.io)
 
 ## Usage
 
+Installation.
+
 ```bash
 npm install corner-ribbon
 ```
 
-## HTML
+### HTML
 
 ```html
 <div style="position: relative; overflow: hidden;">
@@ -18,13 +20,13 @@ npm install corner-ribbon
 </div>
 ```
 
-## CSS
+### CSS
 
 ```html
 <link rel="stylesheet" href="node_modules/corner-ribbon/dist/corner-ribbon.min.css">
 ```
 
-## Sass
+### Sass
 
 Install dependencies.
 
@@ -58,7 +60,7 @@ Custom corner ribbon background colors.
 // i.e. .corner-ribbon--red
 
 $corner-ribbon-colors: (
-    red: #ff0000
+  red: #ff0000
 ) !default;
 ```
 
