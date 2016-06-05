@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/corner-ribbon.svg)](https://badge.fury.io/js/corner-ribbon)
 
-Corner ribbon CSS (Sass).
+Corner ribbon CSS (Sass). [Demo](http://corner-ribbon.themekit.io)
 
 ## Usage
 
